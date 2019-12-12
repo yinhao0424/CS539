@@ -1,4 +1,9 @@
 # CS539
+## Big Questions:
+- Can you use a CNN, SVM, or logistic Regression to judge the aesthetic quality of an image?
+- Is there an objective definition to aesthetic quality?
+- Which model had the highest accuracy using the same dataset?
+
 ## Key Takeaways:
 ### SVM & Logistic Regression:
 - we achieved an approximate accuracy of 69% using an SVM classifier to clusters(good, bad)
